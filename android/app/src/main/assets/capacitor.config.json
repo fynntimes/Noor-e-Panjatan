@@ -1,0 +1,7 @@
+{
+  "appId": "com.noorepanjatan",
+  "appName": "Noor-e-Panjatan",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
